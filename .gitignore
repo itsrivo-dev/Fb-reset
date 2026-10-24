@@ -1,0 +1,10 @@
+# APK repair working artifacts and local secrets
+repair/work/
+repair/output/*
+!repair/output/W8PremiumYT All In One.repaired.apk
+!repair/output/SHA256SUMS.txt
+repair/local/
+*.jks
+*.keystore
+*.pem
+*.p12
